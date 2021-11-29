@@ -1,0 +1,5 @@
+C:\Projects\MenuBuilder\MenuBuilder\obj\Debug\net6.0\MenuBuilder.csproj.AssemblyReference.cache
+C:\Projects\MenuBuilder\MenuBuilder\obj\Debug\net6.0\MenuBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MenuBuilder\MenuBuilder\obj\Debug\net6.0\MenuBuilder.AssemblyInfoInputs.cache
+C:\Projects\MenuBuilder\MenuBuilder\obj\Debug\net6.0\MenuBuilder.AssemblyInfo.cs
+C:\Projects\MenuBuilder\MenuBuilder\obj\Debug\net6.0\MenuBuilder.csproj.CoreCompileInputs.cache
